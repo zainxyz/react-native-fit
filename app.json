@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "android": {
+      "package": "org.react-xyz-fitness.exp"
+    },
+    "description": "The best fitness app ever!",
+    "icon":
+      "http://icons.iconarchive.com/icons/creativeflip/starwars-longshadow-flat/512/Yoda-icon.png",
+    "ios": {
+      "bundleIdentifier": "org.react-xyz-fitness.exp"
+    },
+    "name": "React Fitness",
+    "notification": {
+      "icon":
+        "http://icons.iconarchive.com/icons/creativeflip/starwars-longshadow-flat/48/Yoda-icon.png"
+    },
+    "orientation": "portrait",
+    "sdkVersion": "22.0.0",
+    "slug": "react-xyz-fitness",
+    "version": "0.0.3"
+  }
+}
